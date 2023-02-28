@@ -1,7 +1,7 @@
 
 # [ewwgene.github.io /](https://ewwgene.github.io/) [_DESIGN_ /](https://ewwgene.github.io/DESIGN) Coffee_Tables_Set_05
 
-[![Coffee_Tables_Set_05](/100.jpg)](https://ewwgene.github.io/Coffee_Tables_Set_05/Carousel)<a id="103" href="https://ewwgene.github.io/Coffee_Tables_Set_05/Carousel/#103"><img src="https://ewwgene.github.io/Coffee_Tables_Set_05/103.jpg" height="66"></a> <a id="107" href="https://ewwgene.github.io/Coffee_Tables_Set_05/Carousel/#107"><img src="https://ewwgene.github.io/Coffee_Tables_Set_05/107.jpg" height="66"></a> <a id="111" href="https://ewwgene.github.io/Coffee_Tables_Set_05/Carousel/#111"><img src="https://ewwgene.github.io/Coffee_Tables_Set_05/111.jpg" height="66"></a> <a id="113" href="https://ewwgene.github.io/Coffee_Tables_Set_05/Carousel/#113"><img src="https://ewwgene.github.io/Coffee_Tables_Set_05/113.jpg" height="66"></a> <a id="114" href="https://ewwgene.github.io/Coffee_Tables_Set_05/Carousel/#114"><img src="https://ewwgene.github.io/Coffee_Tables_Set_05/114.jpg" height="66"></a> <a id="115" href="https://ewwgene.github.io/Coffee_Tables_Set_05/Carousel/#115"><img src="https://ewwgene.github.io/Coffee_Tables_Set_05/115.jpg" height="66"></a> <a id="117" href="https://ewwgene.github.io/Coffee_Tables_Set_05/Carousel/#117"><img src="https://ewwgene.github.io/Coffee_Tables_Set_05/117.jpg" height="66"></a> <a id="text">&#160;</a>
+[![Coffee_Tables_Set_05](/100.jpg)](https://ewwgene.github.io/Coffee_Tables_Set_05/Carousel)<br> <a id="103" href="https://ewwgene.github.io/Coffee_Tables_Set_05/Carousel/#103"><img src="https://ewwgene.github.io/Coffee_Tables_Set_05/103.jpg" height="66"></a> <a id="107" href="https://ewwgene.github.io/Coffee_Tables_Set_05/Carousel/#107"><img src="https://ewwgene.github.io/Coffee_Tables_Set_05/107.jpg" height="66"></a> <a id="111" href="https://ewwgene.github.io/Coffee_Tables_Set_05/Carousel/#111"><img src="https://ewwgene.github.io/Coffee_Tables_Set_05/111.jpg" height="66"></a> <a id="113" href="https://ewwgene.github.io/Coffee_Tables_Set_05/Carousel/#113"><img src="https://ewwgene.github.io/Coffee_Tables_Set_05/113.jpg" height="66"></a> <a id="114" href="https://ewwgene.github.io/Coffee_Tables_Set_05/Carousel/#114"><img src="https://ewwgene.github.io/Coffee_Tables_Set_05/114.jpg" height="66"></a> <a id="115" href="https://ewwgene.github.io/Coffee_Tables_Set_05/Carousel/#115"><img src="https://ewwgene.github.io/Coffee_Tables_Set_05/115.jpg" height="66"></a> <a id="117" href="https://ewwgene.github.io/Coffee_Tables_Set_05/Carousel/#117"><img src="https://ewwgene.github.io/Coffee_Tables_Set_05/117.jpg" height="66"></a> <a id="text">&#160;</a>
 
 _`SOLID_PINE_WOOD`_ _`PLASTER`_ 
 
@@ -17,5 +17,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <a id="300" href="https://ewwgene.github.io/Coffee_Tables_Set_05/Carousel/#300"><img src="https://ewwgene.github.io/Coffee_Tables_Set_05/300.jpg" height="66"></a> <a id="405" href="https://ewwgene.github.io/Coffee_Tables_Set_05/Carousel/#405"><img src="https://ewwgene.github.io/Coffee_Tables_Set_05/405.jpg" height="66"></a> 
 
 _`DESIGN SERIES`_ _`SCULPTURE`_ 
+
+<br> 
+
 ### [ABOUT /](https://ewwgene.github.io/ABOUT)
 ### [MAIL_TO:](mailto:r0cam@me.com)
