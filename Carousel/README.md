@@ -1,5 +1,5 @@
 ﻿
-# [ewwgene.github.io /](https://ewwgene.github.io/) [_DESIGN_SERIES_ /](https://ewwgene.github.io/DESIGN_SERIES) [Coffee_Tables_Set_05 /](https://ewwgene.github.io/Coffee_Tables_Set_05)
+# [ewwgene.github.io /](https://ewwgene.github.io/) [_DESIGN_ /](https://ewwgene.github.io/DESIGN) [Coffee_Tables_Set_05 /](https://ewwgene.github.io/Coffee_Tables_Set_05)
 
 <a id="100"></a> ![100.jpg](https://ewwgene.github.io/Coffee_Tables_Set_05/100.jpg)
 <a id="103"></a> ![103.jpg](https://ewwgene.github.io/Coffee_Tables_Set_05/103.jpg)
