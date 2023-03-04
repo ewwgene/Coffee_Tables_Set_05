@@ -16,7 +16,7 @@ _`IDRAW`_ _`SILO_3D`_ _`STUDIO_ARTIST`_  _**`KUTZALL_WHEELS`**_
 
 <a id="300" href="https://ewwgene.github.io/Coffee_Tables_Set_05/Carousel/#300"><img src="https://ewwgene.github.io/Coffee_Tables_Set_05/300.jpg" height="66"></a> <a id="405" href="https://ewwgene.github.io/Coffee_Tables_Set_05/Carousel/#405"><img src="https://ewwgene.github.io/Coffee_Tables_Set_05/405.jpg" height="66"></a> 
 
-_`DESIGN_SERIES`_ _`TABLE`_ 
+_`DESIGN_SERIES`_ _`FURNITURE`_ 
 
 <br> 
 
